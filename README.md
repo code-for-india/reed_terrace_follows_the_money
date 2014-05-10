@@ -1,3 +1,11 @@
+Objective:
+======
+To solve the 'Follow the money' challenge of the CFI Hackathon. 
+
+Files:
+======
+TBD
+
 Members
 =======
 Nagaravind Challakere   : lottepuski@gmail.com
